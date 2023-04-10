@@ -3,7 +3,7 @@
 # 🛰️ Current Projects
 ## 2023 San Diego Marathon
 
-Training to run 26.2 on June 6thm and fundraising for [St. Jude's Childrens Research Hospital](https://fundraising.stjude.org/site/TR/Heroes/Heroes?px=7931101&pg=personal&fr_id=139269&autologin=true&copy_link_share). This my first run at 26.2 and a stop along the way to 50. 
+Training to run 26.2 on June 6th, and fundraising for [St. Jude's Childrens Research Hospital](https://fundraising.stjude.org/site/TR/Heroes/Heroes?px=7931101&pg=personal&fr_id=139269&autologin=true&copy_link_share). This my first run at 26.2 and a stop along the way to 50. 
 
 [Support my fundraising for St. Jude's](https://fundraising.stjude.org/site/TR/Heroes/Heroes?px=7931101&pg=personal&fr_id=139269&autologin=true&copy_link_share) and be a champion of pediatric cancer research with me!
 
