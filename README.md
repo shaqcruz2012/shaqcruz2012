@@ -7,6 +7,10 @@ Training to run 26.2 on June 6th, and fundraising for [St. Jude's Childrens Rese
 
 [Support my fundraising for St. Jude's](https://fundraising.stjude.org/site/TR/Heroes/Heroes?px=7931101&pg=personal&fr_id=139269&autologin=true&copy_link_share) and be a champion of pediatric cancer research with me!
 
+![image](https://user-images.githubusercontent.com/54126946/231226269-6b731876-09a0-4c7a-b601-42b318c3b508.png)
+<br>
+<br>
+
 ### Student FullStack Engineer @ Code Platoon
 Currently in an immersive full-time program at [Code Platoon](https://www.codeplatoon.org/full-stack/). Building out my first solo project, [BreatheReal](https://github.com/shaqcruz2012/breathereal), implementing React, Django, Postgresql, user authorization, and Spotify Web API
 
@@ -26,6 +30,8 @@ Currently in an immersive full-time program at [Code Platoon](https://www.codepl
 
 #### LinkedIn:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shaq-cruz/)
+
+![admiralsdinner](https://user-images.githubusercontent.com/54126946/231224094-d7724aa0-6619-4b7d-9578-6f18ead4f495.jpg)
 
 <!---
 shaqcruz2012/shaqcruz2012 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
