@@ -7,15 +7,11 @@ Training to run 26.2 on June 6th, and fundraising for [St. Jude's Childrens Rese
 
 [Support my fundraising for St. Jude's](https://fundraising.stjude.org/site/TR/Heroes/Heroes?px=7931101&pg=personal&fr_id=139269&autologin=true&copy_link_share) and be a champion of pediatric cancer research with me!
 
-![image](https://user-images.githubusercontent.com/54126946/231226269-6b731876-09a0-4c7a-b601-42b318c3b508.png)
 <br>
 <br>
 
-### Student FullStack Engineer @ Code Platoon
-Currently in an immersive full-time program at [Code Platoon](https://www.codeplatoon.org/full-stack/). Building out my first solo project, [BreatheReal](https://github.com/shaqcruz2012/breathereal), implementing React, Django, Postgresql, user authorization, and Spotify Web API
-
-  _Breathereal is the [simplest music sharing app](https://github.com/shaqcruz2012/breathereal) to share once a day your real life in music with friends. 
-  <br>Every day at a different time, everyone is notified simultaneously to take a breath and share a song._
+### FullStack Engineer certification through Code Platoon
+Recent graduate of immersive full-time program at [Code Platoon](https://www.codeplatoon.org/full-stack/). Built out my first solo project, [BreatheReal](https://github.com/shaqcruz2012/breathereal), implementing React, Bootstrap Django, Postgresql, user authorization, and Spotify Web API
 
 - ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 - ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
