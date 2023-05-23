@@ -7,10 +7,7 @@ Training to run 26.2 on June 6th, and fundraising for [St. Jude's Childrens Rese
 
 [Support my fundraising for St. Jude's](https://fundraising.stjude.org/site/TR/Heroes/Heroes?px=7931101&pg=personal&fr_id=139269&autologin=true&copy_link_share) and be a champion of pediatric cancer research with me!
 
-<br>
-<br>
-
-### FullStack Engineer certification through Code Platoon
+### FullStack Engineer Certification | Code Platoon
 Recent graduate of immersive full-time program at [Code Platoon](https://www.codeplatoon.org/full-stack/). Built out my first solo project, [BreatheReal](https://github.com/shaqcruz2012/breathereal), implementing React, Bootstrap Django, Postgresql, user authorization, and Spotify Web API
 
 - ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
